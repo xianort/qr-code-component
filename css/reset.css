@@ -1,0 +1,37 @@
+@import url(fonts.css);
+
+:root {
+    font-family: Outfit, system-ui, -apple-system, BlinkMacSystemFont,
+        sans-serif;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+}
