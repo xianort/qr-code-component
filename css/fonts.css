@@ -4,3 +4,13 @@
         format(truetype);
     font-weight: 100 900;
 }
+
+@font-face {
+    font-family: "OutfitStatic";
+    src: url(../assets/fonts/Outfit/static/Outfit-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: "OutfitStatic";
+    src: url(../assets/fonts/Outfit/static/Outfit-Bold.ttf) format(truetype);
+}

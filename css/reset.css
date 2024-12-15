@@ -1,7 +1,7 @@
 @import url(fonts.css);
 
 :root {
-    font-family: Outfit, sans-serif;
+    font-family: Outfit, "OutfitStatic", sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
