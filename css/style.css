@@ -16,7 +16,7 @@ main {
 
 .card {
     animation: fade-in 500ms ease-out 200ms 1 backwards;
-    max-width: 320px;
+    max-width: 20rem;
     background-color: white;
     padding: 1rem;
     padding-bottom: 2.5rem;
